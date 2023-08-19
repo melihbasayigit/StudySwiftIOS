@@ -16,13 +16,13 @@
 		D4528CBA2A8F9E5A00437233 /* XylophoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4528CB92A8F9E5A00437233 /* XylophoneTests.swift */; };
 		D4528CC42A8F9E5A00437233 /* XylophoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4528CC32A8F9E5A00437233 /* XylophoneUITests.swift */; };
 		D4528CC62A8F9E5A00437233 /* XylophoneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4528CC52A8F9E5A00437233 /* XylophoneUITestsLaunchTests.swift */; };
-		D4E530DA2A8FB94E00413CFD /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D32A8FB94E00413CFD /* A.wav */; };
-		D4E530DB2A8FB94E00413CFD /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D42A8FB94E00413CFD /* C.wav */; };
-		D4E530DC2A8FB94E00413CFD /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D52A8FB94E00413CFD /* B.wav */; };
-		D4E530DD2A8FB94E00413CFD /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D62A8FB94E00413CFD /* F.wav */; };
-		D4E530DE2A8FB94E00413CFD /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D72A8FB94E00413CFD /* G.wav */; };
-		D4E530DF2A8FB94E00413CFD /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D82A8FB94E00413CFD /* E.wav */; };
-		D4E530E02A8FB94E00413CFD /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = D4E530D92A8FB94E00413CFD /* D.wav */; };
+		D45F4C092A90FD70001374F5 /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C022A90FD70001374F5 /* A.wav */; };
+		D45F4C0A2A90FD70001374F5 /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C032A90FD70001374F5 /* C.wav */; };
+		D45F4C0B2A90FD70001374F5 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C042A90FD70001374F5 /* B.wav */; };
+		D45F4C0C2A90FD70001374F5 /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C052A90FD70001374F5 /* F.wav */; };
+		D45F4C0D2A90FD70001374F5 /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C062A90FD70001374F5 /* G.wav */; };
+		D45F4C0E2A90FD70001374F5 /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C072A90FD70001374F5 /* E.wav */; };
+		D45F4C0F2A90FD70001374F5 /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = D45F4C082A90FD70001374F5 /* D.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,13 +56,13 @@
 		D4528CBF2A8F9E5A00437233 /* XylophoneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XylophoneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4528CC32A8F9E5A00437233 /* XylophoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XylophoneUITests.swift; sourceTree = "<group>"; };
 		D4528CC52A8F9E5A00437233 /* XylophoneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XylophoneUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		D4E530D32A8FB94E00413CFD /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
-		D4E530D42A8FB94E00413CFD /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
-		D4E530D52A8FB94E00413CFD /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
-		D4E530D62A8FB94E00413CFD /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
-		D4E530D72A8FB94E00413CFD /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
-		D4E530D82A8FB94E00413CFD /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
-		D4E530D92A8FB94E00413CFD /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		D45F4C022A90FD70001374F5 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		D45F4C032A90FD70001374F5 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		D45F4C042A90FD70001374F5 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		D45F4C052A90FD70001374F5 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		D45F4C062A90FD70001374F5 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		D45F4C072A90FD70001374F5 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		D45F4C082A90FD70001374F5 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +113,7 @@
 		D4528CA12A8F9E5900437233 /* Xylophone */ = {
 			isa = PBXGroup;
 			children = (
-				D4E530D22A8FB94E00413CFD /* Sounds */,
+				D45F4B792A90FD70001374F5 /* Sounds */,
 				D4528CA22A8F9E5900437233 /* AppDelegate.swift */,
 				D4528CA42A8F9E5900437233 /* SceneDelegate.swift */,
 				D4528CA62A8F9E5900437233 /* ViewController.swift */,
@@ -142,19 +142,1106 @@
 			path = XylophoneUITests;
 			sourceTree = "<group>";
 		};
-		D4E530D22A8FB94E00413CFD /* Sounds */ = {
+		D45F4B792A90FD70001374F5 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				D4E530D32A8FB94E00413CFD /* A.wav */,
-				D4E530D42A8FB94E00413CFD /* C.wav */,
-				D4E530D52A8FB94E00413CFD /* B.wav */,
-				D4E530D62A8FB94E00413CFD /* F.wav */,
-				D4E530D72A8FB94E00413CFD /* G.wav */,
-				D4E530D82A8FB94E00413CFD /* E.wav */,
-				D4E530D92A8FB94E00413CFD /* D.wav */,
+				D45F4B7A2A90FD70001374F5 /* Sounds */,
+				D45F4C022A90FD70001374F5 /* A.wav */,
+				D45F4C032A90FD70001374F5 /* C.wav */,
+				D45F4C042A90FD70001374F5 /* B.wav */,
+				D45F4C052A90FD70001374F5 /* F.wav */,
+				D45F4C062A90FD70001374F5 /* G.wav */,
+				D45F4C072A90FD70001374F5 /* E.wav */,
+				D45F4C082A90FD70001374F5 /* D.wav */,
 			);
-			name = Sounds;
-			path = "../../../../../Downloads/Xylophone-iOS13-Completed-master/Xylophone/Sounds";
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7A2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B7B2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7B2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B7C2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7C2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B7D2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7D2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B7E2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7E2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B7F2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B7F2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B802A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B802A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B812A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B812A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B822A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B822A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B832A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B832A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B842A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B842A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B852A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B852A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B862A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B862A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B872A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B872A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B882A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B882A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B892A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B892A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8A2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8A2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8B2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8B2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8C2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8C2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8D2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8D2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8E2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8E2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B8F2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B8F2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B902A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B902A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B912A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B912A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B922A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B922A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B932A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B932A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B942A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B942A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B952A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B952A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B962A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B962A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B972A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B972A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B982A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B982A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B992A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B992A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9A2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9A2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9B2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9B2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9C2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9C2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9D2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9D2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9E2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9E2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4B9F2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4B9F2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BA92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BA92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAD2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAD2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BAF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BAF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BB92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BB92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBD2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBD2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BBF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BBF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BC92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BC92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCD2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCD2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BCF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BCF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BD92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BD92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDD2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDD2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BDF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BDF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BE92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BE92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BEA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BEA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BEB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BEB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BEC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BEC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BED2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BED2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BEE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BEE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BEF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BEF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF02A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF02A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF12A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF12A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF22A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF22A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF32A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF32A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF42A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF42A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF52A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF52A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF62A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF62A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF72A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF72A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF82A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF82A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BF92A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BF92A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFA2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFA2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFB2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFB2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFC2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFC2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFD2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFD2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFE2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFE2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4BFF2A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4BFF2A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4C002A90FD70001374F5 /* Sounds */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4C002A90FD70001374F5 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				D45F4C012A90FD70001374F5 /* Sound */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		D45F4C012A90FD70001374F5 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,16 +1348,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4E530DE2A8FB94E00413CFD /* G.wav in Resources */,
+				D45F4C0D2A90FD70001374F5 /* G.wav in Resources */,
 				D4528CAF2A8F9E5A00437233 /* LaunchScreen.storyboard in Resources */,
-				D4E530DD2A8FB94E00413CFD /* F.wav in Resources */,
+				D45F4C0C2A90FD70001374F5 /* F.wav in Resources */,
 				D4528CAC2A8F9E5A00437233 /* Assets.xcassets in Resources */,
-				D4E530DA2A8FB94E00413CFD /* A.wav in Resources */,
-				D4E530DC2A8FB94E00413CFD /* B.wav in Resources */,
-				D4E530DF2A8FB94E00413CFD /* E.wav in Resources */,
-				D4E530E02A8FB94E00413CFD /* D.wav in Resources */,
+				D45F4C092A90FD70001374F5 /* A.wav in Resources */,
+				D45F4C0B2A90FD70001374F5 /* B.wav in Resources */,
+				D45F4C0E2A90FD70001374F5 /* E.wav in Resources */,
+				D45F4C0F2A90FD70001374F5 /* D.wav in Resources */,
 				D4528CAA2A8F9E5900437233 /* Main.storyboard in Resources */,
-				D4E530DB2A8FB94E00413CFD /* C.wav in Resources */,
+				D45F4C0A2A90FD70001374F5 /* C.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
