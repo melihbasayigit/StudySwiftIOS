@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D43A4F6C2A90FC0A00D92663 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D43A4F6B2A90FC0A00D92663 /* alarm_sound.mp3 */; };
 		D43AF3FE2A90CD1100D47002 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF3FD2A90CD1100D47002 /* AppDelegate.swift */; };
 		D43AF4002A90CD1100D47002 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF3FF2A90CD1100D47002 /* SceneDelegate.swift */; };
 		D43AF4022A90CD1100D47002 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF4012A90CD1100D47002 /* ViewController.swift */; };
@@ -16,7 +17,6 @@
 		D43AF4152A90CD1100D47002 /* EggTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF4142A90CD1100D47002 /* EggTimerTests.swift */; };
 		D43AF41F2A90CD1100D47002 /* EggTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF41E2A90CD1100D47002 /* EggTimerUITests.swift */; };
 		D43AF4212A90CD1100D47002 /* EggTimerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43AF4202A90CD1100D47002 /* EggTimerUITestsLaunchTests.swift */; };
-		D43AF42E2A90CE5E00D47002 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D43AF42D2A90CE5E00D47002 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D43A4F6B2A90FC0A00D92663 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../../../../Downloads/EggTimer-iOS13-master/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
 		D43AF3FA2A90CD1100D47002 /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D43AF3FD2A90CD1100D47002 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D43AF3FF2A90CD1100D47002 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,7 +51,6 @@
 		D43AF41A2A90CD1100D47002 /* EggTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EggTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D43AF41E2A90CD1100D47002 /* EggTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITests.swift; sourceTree = "<group>"; };
 		D43AF4202A90CD1100D47002 /* EggTimerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		D43AF42D2A90CE5E00D47002 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../../../../Downloads/EggTimer-iOS13-master/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		D43AF3FC2A90CD1100D47002 /* EggTimer */ = {
 			isa = PBXGroup;
 			children = (
-				D43AF42D2A90CE5E00D47002 /* alarm_sound.mp3 */,
+				D43A4F6B2A90FC0A00D92663 /* alarm_sound.mp3 */,
 				D43AF3FD2A90CD1100D47002 /* AppDelegate.swift */,
 				D43AF3FF2A90CD1100D47002 /* SceneDelegate.swift */,
 				D43AF4012A90CD1100D47002 /* ViewController.swift */,
@@ -236,7 +236,7 @@
 			files = (
 				D43AF40A2A90CD1100D47002 /* LaunchScreen.storyboard in Resources */,
 				D43AF4072A90CD1100D47002 /* Assets.xcassets in Resources */,
-				D43AF42E2A90CE5E00D47002 /* alarm_sound.mp3 in Resources */,
+				D43A4F6C2A90FC0A00D92663 /* alarm_sound.mp3 in Resources */,
 				D43AF4052A90CD1100D47002 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
