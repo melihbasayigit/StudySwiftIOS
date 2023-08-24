@@ -10,6 +10,7 @@
 		D415FF8F2A94D98700E0E354 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D415FF8E2A94D98700E0E354 /* ViewController.swift */; };
 		D415FF942A94DA3D00E0E354 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D415FF932A94DA3D00E0E354 /* Main.storyboard */; };
 		D415FF962A94DACB00E0E354 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D415FF952A94DACB00E0E354 /* Question.swift */; };
+		D4B676C52A94EE7A00DB834C /* QuestionChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B676C42A94EE7A00DB834C /* QuestionChecker.swift */; };
 		D4E3CD782A928433002ECA90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3CD772A928433002ECA90 /* AppDelegate.swift */; };
 		D4E3CD7A2A928433002ECA90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3CD792A928433002ECA90 /* SceneDelegate.swift */; };
 		D4E3CD812A928434002ECA90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4E3CD802A928434002ECA90 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		D415FF8E2A94D98700E0E354 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D415FF932A94DA3D00E0E354 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		D415FF952A94DACB00E0E354 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		D4B676C42A94EE7A00DB834C /* QuestionChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionChecker.swift; sourceTree = "<group>"; };
 		D4E3CD742A928433002ECA90 /* QuizApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E3CD772A928433002ECA90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4E3CD792A928433002ECA90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				D415FF952A94DACB00E0E354 /* Question.swift */,
+				D4B676C42A94EE7A00DB834C /* QuestionChecker.swift */,
 			);
 			name = Model;
 			path = /Users/melih/Desktop/swift/StudySwiftIOS/QuizApp/QuizApp/Model;
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4B676C52A94EE7A00DB834C /* QuestionChecker.swift in Sources */,
 				D415FF8F2A94D98700E0E354 /* ViewController.swift in Sources */,
 				D415FF962A94DACB00E0E354 /* Question.swift in Sources */,
 				D4E3CD782A928433002ECA90 /* AppDelegate.swift in Sources */,
